@@ -52,7 +52,7 @@ const fases = {
             { x: 155, y: 385, raio: 21 }, //dado
             { x: 270, y: 370, raio: 23 }, // entrada tv
             { x: 175, y: 190, raio: 20 }, //gola do menino de oculos
-            { x: 550, y: 160, raio: 22 }
+            { x: 550, y: 160, raio: 22 } //orelha cavalo
         ],
         encontrados: []
     }
@@ -271,3 +271,4 @@ function voltarMenu() {
         fases[key].encontrados = [];
     });
 }
+
