@@ -49,10 +49,10 @@ const fases = {
             { x: 330, y: 430, raio: 22 }, //letra A
             { x: 440, y: 390, raio: 20 }, // Cabos
             { x: 15, y: 220, raio: 24 }, // no cantinho
-            { x: 0, y: 0, raio: 21 },
-            { x: 0, y: 0, raio: 23 },
-            { x: 0, y: 0, raio: 20 },
-            { x: 0, y: 0, raio: 22 }
+            { x: 155, y: 385, raio: 21 }, //dado
+            { x: 270, y: 370, raio: 23 }, // entrada tv
+            { x: 175, y: 190, raio: 20 }, //gola do menino de oculos
+            { x: 550, y: 160, raio: 22 }
         ],
         encontrados: []
     }
